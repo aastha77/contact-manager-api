@@ -68,25 +68,25 @@ Login using your superuser credentials to manage contacts via GUI.
 ## 📸 Screenshots
 
 ### 1. Django Admin Panel
-![Admin Panel](https://raw.githubusercontent.com/aastha77/contact-manager-api/blob/main/screenshots/admin_panel.png)
+![Admin Panel](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/admin_panel.png)
 
 ### 2. GET All Contacts
-![GET All](https://raw.githubusercontent.com/aastha77/contact-manager-api/blob/main/screenshots/get_all_contacts.png)
+![GET All](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/get_all_contacts.png)
 
 ### 3. GET Single Contact
-![GET One](https://raw.githubusercontent.com/aastha77/contact-manager-api/blob/main/screenshots/get_single_contact.png)
+![GET One](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/get_single_contact.png)
 
 ### 4. POST - Create Contact
-![POST](https://raw.githubusercontent.com/aastha77/contact-manager-api/blob/main/screenshots/post_create_contact.png)
+![POST](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/post_create_contact.png)
 
 ### 5. PUT - Update Contact
-![PUT](https://raw.githubusercontent.com/aastha77/contact-manager-api/blob/main/screenshots/put_update_contact.png)
+![PUT](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/put_update_contact.png)
 
 ### 6. DELETE Contact
-![DELETE](https://raw.githubusercontent.com/aastha77/contact-manager-api/blob/main/screenshots/delete_contact.png)
+![DELETE](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/delete_contact.png)
 
 ### 7. Project Folder Structure
-![Project Structure](https://raw.githubusercontent.com/aastha77/contact-manager-api/blob/main/screenshots/project_structure.png)
+![Project Structure](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/project_structure.png)
 
 
 🧑‍💻 Author
