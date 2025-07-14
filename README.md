@@ -60,33 +60,16 @@ python manage.py createsuperuser
 # 5. Run the server
 python manage.py runserver
 
-🔐 Admin Panel
-Visit: http://127.0.0.1:8000/admin/
-Login using your superuser credentials to manage contacts via GUI.
-
-
 ## 📸 Screenshots
 
-### 1. Django Admin Panel  
+### 1. Admin Panel  
 ![Admin Panel](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/admin_panel.png)
 
-### 2. GET All Contacts  
+### 2. GET All  
 ![GET All](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/get_all_contacts.png)
 
-### 3. GET Single Contact  
-![GET One](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/get_single_contact.png)
-
-### 4. POST - Create Contact  
-![POST](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/post_create_contact.png)
-
-### 5. PUT - Update Contact  
-![PUT](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/put_update_contact.png)
-
-### 6. DELETE Contact  
-![DELETE](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/delete_contact.png)
-
-### 7. Project Folder Structure  
-![Project Structure](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/project_structure.png)
+### 3. Project Structure  
+![Structure](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/project_structure.png)
 
 
 🧑‍💻 Author
