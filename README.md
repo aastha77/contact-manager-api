@@ -68,29 +68,29 @@ Login using your superuser credentials to manage contacts via GUI.
 ## 📸 Screenshots
 
 ### 1. Django Admin Panel
-![Admin Panel](screenshots/admin_panel.png)
+![Admin Panel](https://github.com/aastha77/contact-manager-api/blob/main/screenshots/admin_panel.png)
 
 ### 2. GET All Contacts
-![GET All](screenshots/get_all_contacts.png)
+![GET All](https://github.com/aastha77/contact-manager-api/blob/main/screenshots/get_all_contacts.png)
 
 ### 3. GET Single Contact
-![GET One](screenshots/get_single_contact.png)
+![GET One](https://github.com/aastha77/contact-manager-api/blob/main/screenshots/get_single_contact.png)
 
 ### 4. POST - Create Contact
-![POST](screenshots/post_create_contact.png)
+![POST](https://github.com/aastha77/contact-manager-api/blob/main/screenshots/post_create_contact.png)
 
 ### 5. PUT - Update Contact
-![PUT](screenshots/put_update_contact.png)
+![PUT](https://github.com/aastha77/contact-manager-api/blob/main/screenshots/put_update_contact.png)
 
 ### 6. DELETE Contact
-![DELETE](screenshots/delete_contact.png)
+![DELETE](https://github.com/aastha77/contact-manager-api/blob/main/screenshots/delete_contact.png)
 
 ### 7. Project Folder Structure
-![Project Structure](screenshots/project_structure.png)
+![Project Structure](https://github.com/aastha77/contact-manager-api/blob/main/screenshots/project_structure.png)
 
 
 🧑‍💻 Author
 Aastha Pandey
 
 🔗 [GitHub](https://github.com/aastha77)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aastha-pandey-401839275/)
+🔗 [LinkedIn](https://linkedin.com/in/aastha-pandey-401839275/)
