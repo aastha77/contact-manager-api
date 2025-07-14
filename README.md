@@ -63,7 +63,8 @@ python manage.py runserver
 ## 📸 Screenshots
 
 ### 1. Admin Panel  
-![Admin Panel](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/admin_panel.png)
+![Admin Panel](screenshots/admin_panel.png)
+
 
 ### 2. GET All  
 ![GET All](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/get_all_contacts.png)
