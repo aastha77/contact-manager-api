@@ -51,30 +51,21 @@ cd contact-manager-api
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
 
-# 3. Run migrations
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run migrations
 python manage.py migrate
 
-# 4. Create a superuser (for admin panel)
+# 5. Create a superuser (for admin panel)
 python manage.py createsuperuser
 
-# 5. Run the server
+# 6. Run the server
 python manage.py runserver
 
-## 📸 Screenshots
-
-### 1. Admin Panel  
-![Admin Panel](screenshots/admin_panel.png)
-
-
-### 2. GET All  
-![GET All](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/get_all_contacts.png)
-
-### 3. Project Structure  
-![Structure](https://raw.githubusercontent.com/aastha77/contact-manager-api/main/screenshots/project_structure.png)
-
+🔐 Admin Panel: http://127.0.0.1:8000/admin/
 
 🧑‍💻 Author
 Aastha Pandey
+GitHub | LinkedIn
 
-🔗 [GitHub](https://github.com/aastha77)  
-🔗 [LinkedIn](https://linkedin.com/in/aastha-pandey-401839275/)
